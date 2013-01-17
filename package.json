@@ -1,6 +1,6 @@
 {
     "name": "sm-util",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "pm": "npm",
     "dependencies": {
         "n-util": "0.0.x",
@@ -10,7 +10,7 @@
         "console-trace": "0.2.x",
         "tunnel": "0.0.x",
         "waitfor": "0.1.x",
-        "netutil": "0.0.x"        
+        "netutil": "0.0.x"
     },
     "scripts": {
         "test": "node tests/_run.js"
