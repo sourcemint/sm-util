@@ -1,6 +1,6 @@
 
-const UTIL = require("sourcemint-util-js/lib/util");
-const ERROR = require("sourcemint-util-js/lib/error");
+const UTIL = require("sm-util/lib/util");
+const ERROR = require("sm-util/lib/error");
 
 
 exports.main = function(callback) {
