@@ -1,6 +1,6 @@
 {
     "name": "sm-util",
-    "version": "0.1.6",
+    "version": "0.1.7",
     "pm": "npm",
     "dependencies": {
         "n-util": "~0.0.1",
