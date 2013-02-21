@@ -11,7 +11,7 @@
         "tunnel": "~0.0.2",
         "waitfor": "~0.1.1",
         "netutil": "~0.0.1",
-        "fs-extra": "~0.3.2",
+        "fs-extra": "~0.5.0",
         "deepmerge": "~0.2.5",
         "longjohn": "~0.0.4",
         "stack-trace": "~0.0.6"
