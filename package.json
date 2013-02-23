@@ -1,8 +1,8 @@
 {
     "name": "sm-util",
-    "version": "0.1.7",
+    "version": "0.1.8",
     "pm": "npm",
-	"publish": true,
+    "publish": true,
     "dependencies": {
         "n-util": "~0.0.1",
         "q": "~0.8.12",
