@@ -10,3 +10,10 @@ Various JavaScript utility modules. These will eventually be cross-platform.
   * Docs License: [Creative Commons Attribution-NonCommercial-ShareAlike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
   * Sponsor: [Sourcemint](http://sourcemint.com/)
   * Mailing list: [groups.google.com/group/sourcemint](http://groups.google.com/group/sourcemint)
+
+Links
+-----
+
+Other useful utility libraries:
+
+  * https://github.com/websanova/js-url
